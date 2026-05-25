@@ -1,0 +1,19 @@
+# Environment variables (contains API keys)
+.env
+.env.local
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# System
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+.tmp

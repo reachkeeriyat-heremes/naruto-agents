@@ -1,0 +1,11 @@
+{
+  "name": "naruto-agents",
+  "version": "1.0.0",
+  "description": "Personal assistant crew with 6 AI agents via Claude Code schedule",
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "latest",
+    "@notionhq/client": "^2.2.14",
+    "dotenv": "^17.4.2"
+  }
+}
